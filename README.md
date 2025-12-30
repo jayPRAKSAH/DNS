@@ -162,7 +162,17 @@ Address: 1.2.3.4
 
 ---
 
-## 📌 Disclaimer
+## 📌 About This Project
 
-⚠️ This project is for **educational and learning purposes**.  
-Running a production-grade DNS requires deep networking and security knowledge.
+🎓 This project is for **educational and learning purposes**, focusing on **system-level engineering** and **distributed system design**.
+
+### Learning Objectives:
+
+- Understanding how DNS works at the protocol level (UDP, packets, encoding/decoding)
+- Implementing low-level network communication
+- Designing scalable distributed systems
+- Working with caching layers (Redis)
+- Building real-time infrastructure components
+- System design patterns for high-availability services
+
+⚠️ **Note:** Running a production-grade DNS requires deep networking, security knowledge, and compliance with internet standards. This project demonstrates core concepts but is not production-ready without significant hardening.
